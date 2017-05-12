@@ -38,8 +38,9 @@ class BinarySearch
  
                 mitad = (izquierda + derecha)/2;
    }
-                if ( izquierda > derecha )
-                    
+  }
+}
+
                     
       
   
